@@ -11,3 +11,6 @@ cache/
 # IDE
 .vs/
 .idea/
+
+# local per-environment config (never commit)
+config/marshal.ini
